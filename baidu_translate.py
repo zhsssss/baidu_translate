@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Time : 2023/4/6 10:18
-# @Author : zhi.hanshi
+# @Author : zhi
 # @File : baidu_fy
 # @Project : pythonProject1
 import requests
